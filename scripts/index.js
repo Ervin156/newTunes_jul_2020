@@ -20,6 +20,6 @@ playerBtn.forEach((btn, index) => btn.addEventListener('click', () => {
   activate(playerBlock[index])
 }));
 
-// radioPlayerInit();
-// musicPlayerInit();
-// videoPlayerInit();
+radioPlayerInit();
+musicPlayerInit();
+videoPlayerInit();
